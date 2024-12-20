@@ -3,4 +3,4 @@
 
 OR
 
-Go to diagnosifyppi.streamlit.app to go straight through the app
+Go to diagnosifyit.streamlit.app to go straight through the app
